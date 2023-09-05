@@ -11,6 +11,7 @@
 		1D475AD42AA4D1190044E951 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D475AD32AA4D1190044E951 /* ContentView.swift */; };
 		1D475AD62AA4D11A0044E951 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D475AD52AA4D11A0044E951 /* Assets.xcassets */; };
 		1D475AD92AA4D11A0044E951 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D475AD82AA4D11A0044E951 /* Preview Assets.xcassets */; };
+		1D779B102AA7664200F94858 /* day-03.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 1D779B0F2AA7664200F94858 /* day-03.swiftpm */; };
 		1DAD078E2AA571F70018EBA1 /* day-01.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 1DAD078D2AA571F70018EBA1 /* day-01.swiftpm */; };
 		1DAD07902AA579900018EBA1 /* day-02.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 1DAD078F2AA579900018EBA1 /* day-02.swiftpm */; };
 /* End PBXBuildFile section */
@@ -21,6 +22,7 @@
 		1D475AD32AA4D1190044E951 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1D475AD52AA4D11A0044E951 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D475AD82AA4D11A0044E951 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1D779B0F2AA7664200F94858 /* day-03.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-03.swiftpm"; sourceTree = "<group>"; };
 		1DAD078D2AA571F70018EBA1 /* day-01.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-01.swiftpm"; sourceTree = "<group>"; };
 		1DAD078F2AA579900018EBA1 /* day-02.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-02.swiftpm"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -41,6 +43,7 @@
 			children = (
 				1DAD078D2AA571F70018EBA1 /* day-01.swiftpm */,
 				1DAD078F2AA579900018EBA1 /* day-02.swiftpm */,
+				1D779B0F2AA7664200F94858 /* day-03.swiftpm */,
 				1D475AD02AA4D1190044E951 /* 10-days-of-swiftui */,
 				1D475ACF2AA4D1190044E951 /* Products */,
 			);
@@ -133,6 +136,7 @@
 			files = (
 				1D475AD92AA4D11A0044E951 /* Preview Assets.xcassets in Resources */,
 				1D475AD62AA4D11A0044E951 /* Assets.xcassets in Resources */,
+				1D779B102AA7664200F94858 /* day-03.swiftpm in Resources */,
 				1DAD078E2AA571F70018EBA1 /* day-01.swiftpm in Resources */,
 				1DAD07902AA579900018EBA1 /* day-02.swiftpm in Resources */,
 			);
