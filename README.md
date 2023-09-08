@@ -5,3 +5,4 @@
 | 3 | List swipe action | <img src="https://github.com/KokiHirokawa/10-days-of-swiftui/assets/19641837/648cc6e7-17f8-4f9d-b110-13112d049fd4" width="320"> |
 | 4 | ScrollView | <img src="https://github.com/KokiHirokawa/10-days-of-swiftui/assets/19641837/6e01868c-5c9a-4791-8320-7ca2fe16522e" width="320"> |
 | 5 | UIViewControllerRepresentable<br>&<br>UIViewRepresentable | <img src="https://github.com/KokiHirokawa/10-days-of-swiftui/assets/19641837/79fa2147-c7c4-4f10-96d6-4131d0102cde" width="320"> |
+| 6 | LaunchScreen<br>&<br>UIApplicationDelegateAdapter | <video src="https://github.com/KokiHirokawa/10-days-of-swiftui/assets/19641837/444ddff9-e9e0-492b-9f5a-93099399ffd2" width="320"> |
