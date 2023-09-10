@@ -30,13 +30,11 @@ private struct MyPreferenceViewSetter: View {
     }
 }
 
-struct CollaboratingMonthView_Previews: PreviewProvider {
-    static var previews: some View {
-        ForEach(Month.allCases) {
-            CollaboratingMonthView(
-                activeMonth: .constant(.january),
-                month: $0
-            )
-        }
+#Preview {
+    ForEach(Month.allCases) {
+        CollaboratingMonthView(
+            activeMonth: .constant(.january),
+            month: $0
+        )
     }
 }

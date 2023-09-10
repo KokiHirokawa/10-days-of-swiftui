@@ -50,8 +50,6 @@ struct IndependentViews: View {
     }
 }
 
-struct IndependentViews_Previews: PreviewProvider {
-    static var previews: some View {
-        IndependentViews()
-    }
+#Preview {
+    IndependentViews()
 }

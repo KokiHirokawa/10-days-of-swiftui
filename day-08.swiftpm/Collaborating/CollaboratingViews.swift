@@ -75,8 +75,6 @@ extension CollaboratingViews {
     }
 }
 
-struct CollaboratingViews_Previews: PreviewProvider {
-    static var previews: some View {
-        CollaboratingViews()
-    }
+#Preview {
+    CollaboratingViews()
 }
