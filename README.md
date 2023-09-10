@@ -6,3 +6,5 @@
 | 4 | ScrollView | <img src="https://github.com/KokiHirokawa/10-days-of-swiftui/assets/19641837/6e01868c-5c9a-4791-8320-7ca2fe16522e" width="320"> |
 | 5 | UIViewControllerRepresentable<br>&<br>UIViewRepresentable | <img src="https://github.com/KokiHirokawa/10-days-of-swiftui/assets/19641837/79fa2147-c7c4-4f10-96d6-4131d0102cde" width="320"> |
 | 6 | LaunchScreen<br>&<br>UIApplicationDelegateAdapter | <video src="https://github.com/KokiHirokawa/10-days-of-swiftui/assets/19641837/444ddff9-e9e0-492b-9f5a-93099399ffd2" width="320"> |
+| 7 |  |  |
+| 8 | PreferenceKey | ![Simulator Screen Recording - iPhone 14 Pro Max - 2023-09-10 at 17 59 56](https://github.com/KokiHirokawa/10-days-of-swiftui/assets/19641837/eae2e004-90f1-4c5e-a78d-4d4cb63b62db) ![Simulator Screen Recording - iPhone 14 Pro Max - 2023-09-10 at 18 00 14](https://github.com/KokiHirokawa/10-days-of-swiftui/assets/19641837/4696ee3a-62c2-446a-8ffd-fc288adeed8f)<br>Ref: https://swiftui-lab.com/communicating-with-the-view-tree-part-1/ |
