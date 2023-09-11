@@ -7,8 +7,8 @@ struct ContentView: View {
                 VStack(alignment: .leading) {
                     Text("width: \(geometry.size.width)")
                     Text("height: \(geometry.size.width)")
-                    Text("minX: \(geometry.frame(in: .named("me")).minX)")
-                    Text("minY: \(geometry.frame(in: .named("me")).minY)")
+                    Text("minX: \(geometry.frame(in: .global).minX)")
+                    Text("minY: \(geometry.frame(in: .global).minY)")
                 }
                 .border(.orange)
             }
