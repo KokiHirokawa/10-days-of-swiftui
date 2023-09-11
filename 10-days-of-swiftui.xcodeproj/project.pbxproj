@@ -16,6 +16,7 @@
 		1D779B142AA94C6600F94858 /* day-05.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 1D779B132AA94C6600F94858 /* day-05.swiftpm */; };
 		1D779B242AAB52DB00F94858 /* day-06.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 1D779B232AAB52DB00F94858 /* day-06.swiftpm */; };
 		1D779B732AAC0B4400F94858 /* day-07.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 1D779B722AAC0B4400F94858 /* day-07.swiftpm */; };
+		1D779B812AAF41AC00F94858 /* day-09.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 1D779B802AAF41AC00F94858 /* day-09.swiftpm */; };
 		1DAD078E2AA571F70018EBA1 /* day-01.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 1DAD078D2AA571F70018EBA1 /* day-01.swiftpm */; };
 		1DAD07902AA579900018EBA1 /* day-02.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 1DAD078F2AA579900018EBA1 /* day-02.swiftpm */; };
 		7E47ED892AADA71700EA9A61 /* day-08.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 7E47ED882AADA71700EA9A61 /* day-08.swiftpm */; };
@@ -32,6 +33,7 @@
 		1D779B132AA94C6600F94858 /* day-05.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-05.swiftpm"; sourceTree = "<group>"; };
 		1D779B232AAB52DB00F94858 /* day-06.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-06.swiftpm"; sourceTree = "<group>"; };
 		1D779B722AAC0B4400F94858 /* day-07.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-07.swiftpm"; sourceTree = "<group>"; };
+		1D779B802AAF41AC00F94858 /* day-09.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-09.swiftpm"; sourceTree = "<group>"; };
 		1DAD078D2AA571F70018EBA1 /* day-01.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-01.swiftpm"; sourceTree = "<group>"; };
 		1DAD078F2AA579900018EBA1 /* day-02.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-02.swiftpm"; sourceTree = "<group>"; };
 		7E47ED882AADA71700EA9A61 /* day-08.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-08.swiftpm"; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				1D779B232AAB52DB00F94858 /* day-06.swiftpm */,
 				1D779B722AAC0B4400F94858 /* day-07.swiftpm */,
 				7E47ED882AADA71700EA9A61 /* day-08.swiftpm */,
+				1D779B802AAF41AC00F94858 /* day-09.swiftpm */,
 				1D475AD02AA4D1190044E951 /* 10-days-of-swiftui */,
 				1D475ACF2AA4D1190044E951 /* Products */,
 			);
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D475AD92AA4D11A0044E951 /* Preview Assets.xcassets in Resources */,
+				1D779B812AAF41AC00F94858 /* day-09.swiftpm in Resources */,
 				1D475AD62AA4D11A0044E951 /* Assets.xcassets in Resources */,
 				1D779B102AA7664200F94858 /* day-03.swiftpm in Resources */,
 				1D779B142AA94C6600F94858 /* day-05.swiftpm in Resources */,
