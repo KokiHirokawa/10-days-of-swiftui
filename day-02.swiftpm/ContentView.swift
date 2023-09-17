@@ -11,16 +11,15 @@ struct ContentView: View {
                 buttonLabel
             }
 
-            Toggle(isOn: $showsBorder) {
+            Toggle(isOn: $showsBorder.animation()) {
                 Text("Border")
             }
             .frame(width: 200)
         }
     }
 
-    @ViewBuilder
     private var buttonLabel: some View {
-        let capsule = Capsule()
+        Capsule()
             .fill(.orange)
             .frame(width: 200, height: 48)
             .padding(.horizontal, 20)
@@ -30,16 +29,12 @@ struct ContentView: View {
                     .font(.system(size: 20, weight: .bold))
                     .foregroundStyle(.white)
             }
-
-        if showsBorder {
-            capsule
-                .background(alignment: .center) {
+            .background(alignment: .center) {
+                if showsBorder {
                     Rectangle()
                         .stroke(.black, lineWidth: 1.0)
                 }
-        } else {
-            capsule
-        }
+            }
     }
 }
 
