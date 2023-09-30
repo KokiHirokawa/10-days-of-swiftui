@@ -11,3 +11,4 @@
 | 9 | GeometryReader | <img src="https://github.com/KokiHirokawa/10-days-of-swiftui/assets/19641837/2d2c3372-6f0d-4daa-95a6-acf7b56f548a" width="320">
 | 10 | Layout protocol | <img src="https://github.com/KokiHirokawa/10-days-of-swiftui/assets/19641837/624cf402-6157-4350-8ef0-9bccdcbfa314" width="320"> <img src="https://github.com/KokiHirokawa/10-days-of-swiftui/assets/19641837/2a4fe086-f8f6-486f-8714-8a47ba7e15f8" width="320"> |
 | 11 | Form | <img src="https://github.com/KokiHirokawa/30-days-of-swiftui/assets/19641837/fb8cf130-6fc0-4ac2-a9ef-145aafaea79f" width="320"> |
+| 12 | AnchorPreferences | Day 08 と同様 |
