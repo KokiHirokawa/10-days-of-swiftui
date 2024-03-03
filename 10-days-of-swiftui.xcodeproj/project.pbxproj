@@ -22,6 +22,7 @@
 		1D779B832AB0B93400F94858 /* day-10.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 1D779B822AB0B93400F94858 /* day-10.swiftpm */; };
 		1DAD078E2AA571F70018EBA1 /* day-01.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 1DAD078D2AA571F70018EBA1 /* day-01.swiftpm */; };
 		1DAD07902AA579900018EBA1 /* day-02.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 1DAD078F2AA579900018EBA1 /* day-02.swiftpm */; };
+		1DD5EA3E2B92E3BB00737155 /* day-13.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 1DD5EA3D2B92E3BB00737155 /* day-13.swiftpm */; };
 		7E47ED892AADA71700EA9A61 /* day-08.swiftpm in Resources */ = {isa = PBXBuildFile; fileRef = 7E47ED882AADA71700EA9A61 /* day-08.swiftpm */; };
 /* End PBXBuildFile section */
 
@@ -42,6 +43,7 @@
 		1D779B822AB0B93400F94858 /* day-10.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-10.swiftpm"; sourceTree = "<group>"; };
 		1DAD078D2AA571F70018EBA1 /* day-01.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-01.swiftpm"; sourceTree = "<group>"; };
 		1DAD078F2AA579900018EBA1 /* day-02.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-02.swiftpm"; sourceTree = "<group>"; };
+		1DD5EA3D2B92E3BB00737155 /* day-13.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-13.swiftpm"; sourceTree = "<group>"; };
 		7E47ED882AADA71700EA9A61 /* day-08.swiftpm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "day-08.swiftpm"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -71,6 +73,7 @@
 				1D779B822AB0B93400F94858 /* day-10.swiftpm */,
 				1D7462A52ABBECF600B52988 /* day-11.swiftpm */,
 				1D735D922AC83BA500E89CA8 /* day-12.swiftpm */,
+				1DD5EA3D2B92E3BB00737155 /* day-13.swiftpm */,
 				1D475AD02AA4D1190044E951 /* 10-days-of-swiftui */,
 				1D475ACF2AA4D1190044E951 /* Products */,
 			);
@@ -166,6 +169,7 @@
 				1D779B812AAF41AC00F94858 /* day-09.swiftpm in Resources */,
 				1D475AD62AA4D11A0044E951 /* Assets.xcassets in Resources */,
 				1D779B102AA7664200F94858 /* day-03.swiftpm in Resources */,
+				1DD5EA3E2B92E3BB00737155 /* day-13.swiftpm in Resources */,
 				1D779B142AA94C6600F94858 /* day-05.swiftpm in Resources */,
 				1D779B732AAC0B4400F94858 /* day-07.swiftpm in Resources */,
 				1D779B832AB0B93400F94858 /* day-10.swiftpm in Resources */,
